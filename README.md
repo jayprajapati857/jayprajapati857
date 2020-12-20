@@ -2,9 +2,13 @@
 
 I'm a Software Engineer.
 
+[![JayPrajapati's github stats](https://github-readme-stats.vercel.app/api?username=jayprajapati857&count_private=true&show_icons=true)](https://github.com/jayprajapati857) 
+
+![Github Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jayprajapati857&langs_count=4)
+
 Find me around the web:
 
-<a href="https://www.linkedin.com/in/jayprajapati857"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a> <a href="https://twitter.com/_jayprajapati"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a> <a href="https://medium.com/@_jay.prajapati"><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png?raw=true" width="60"></a> <a href="https://www.facebook.com/jayprajapati857"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a> <a href="https://www.instagram.com/_jay.prajapati"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
+<a href="https://www.linkedin.com/in/jayprajapati857"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a> <a href="https://twitter.com/_jayprajapati"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a> <a href="https://medium.com/@jay-prajapati"><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png?raw=true" width="60"></a> <a href="https://www.facebook.com/jayprajapati857"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a> <a href="https://www.instagram.com/_jay.prajapati"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
 
 <!--
 **jayprajapati857/jayprajapati857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
